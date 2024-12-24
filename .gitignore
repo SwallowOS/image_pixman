@@ -23,7 +23,6 @@ libtool
 ltmain.sh
 missing
 stamp-h?
-config.h
 config.h.in
 .*.swp
 demos/*-test
@@ -33,7 +32,6 @@ demos/linear-gradient
 demos/quad2quad
 demos/scale
 pixman/pixman-srgb.c
-pixman/pixman-version.h
 test/*-test
 test/affine-bench
 test/alpha-loop
